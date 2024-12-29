@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilyyleung/eleventy-bragdoc.git"
+    "url": "git+https://github.com/zakaria-shahen/bragdoc.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "github.com/emilyyleung",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilyyleung/eleventy-bragdoc/issues"
+    "url": "https://github.com/zakaria-shahen/bragdoc/issues"
   },
   "homepage": "/"
 }

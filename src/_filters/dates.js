@@ -2,6 +2,12 @@
 A date formatter filter for Nunjucks
 */
 module.exports = function(date, part) {
+	
+	if (String(date).includes(",")) {
+		// support migration data from https://www.bragdocs.com/@zakaria-shahen
+		return date;
+	}
+
 	var d = new Date(date);
 	if(part == 'year') {
 		return d.getUTCFullYear();
