@@ -1,11 +1,88 @@
 module.exports = async function () {
     return [
         {
-            "name": "[Book: Microservices in action] Ch1 ~ Ch5",
+            "title": "[Book:  Software Architecture: The Hard Parts] Ch1 ~ Ch3",
+            "date": "September 25th, 2025",
+            "private": false,
+            "content": "<pre>- Ch1: 17-09-2025\n- Ch2: 25-09-2025\n- Ch3: 26-09-2025\n- Ch4: 29-09-2025</pre>"
+        },
+        {
+            "title": "[Book:  Modern Concurrency in Java] Ch1 ~ Ch5",
+            "date": "August 27th, 2025",
+            "private": false,
+            "content": "<pre>- Ch1 ~ Ch2: 27-08-2025\n- Ch3: 28-08-2025\n- Ch4: 12-09-2025\n- Ch5: 13-09-2025\n- Ch6 ~ Ch8: 14-09-2025</pre>\n<div><br></div>"
+        },
+        {
+            "title": "[Project: Kubernetes]: Kubernetes Deployment for Spring Application",
+            "date": "June 28th, 2025",
+            "private": false,
+            "content": "<div>Project Link: <a href=\"https://github.com/zakaria-shahen/first-kubernetes\">GitHub</a>\n</div>\n<ul>\n<li>Deploying a Java application to a Kubernetes cluster by containerizing it</li>\n<li>Establishing a K8S external service allows pods within the cluster to connect to the database outside the cluster.</li>\n<li>Use ConfigMap, Secret, Deployment.</li>\n<li>Use GitHub Action to create a Continuous Integration (CI) pipeline to build a docker image and push it to GitHub Packages Registry.</li>\n</ul>"
+        },
+        {
+            "title": "[LinkedIn Learning]: Spring on Kubernetes: Deploying and Managing Cloud-Native Applications",
+            "date": "June 28th, 2025",
+            "private": false,
+            "content": "<div>\n<a href=\"https://www.linkedin.com/learning/certificates/83ac138142a9ab1c614f2635a391cc2bf66521de373347e2be62489f8f8ad81a?trk=share_certificate\">Spring on Kubernetes: Deploying and Managing Cloud-Native Applications<br></a>Start: 20-06-2025<br>End: 21-06-2025</div>"
+        },
+        {
+            "title": "[Project: Kubernetes Deployment]: K8s deployment to deploy Spring Application",
+            "date": "June 24th, 2025",
+            "private": false,
+            "content": "<div>Project Link: <a href=\"https://github.com/zakaria-shahen/first-kubernetes\">GitHub</a>\n</div>\n<ul>\n<li>Deploying a Java application to a Kubernetes cluster by containerizing it</li>\n<li>Establishing a K8S external service allows pods within the cluster to connect to the database outside the cluster.</li>\n<li>Use ConfigMap, Secret, Deployment.</li>\n<li>Use GitHub Action to create a Continuous Integration (CI) pipeline to build a docker image and push it to GitHub Packages Registry.</li>\n</ul>"
+        },
+        {
+            "title": "[LinkedIn Learning]: Advanced Kubernetes: 1 Core Concepts",
+            "date": "June 16th, 2025",
+            "private": false,
+            "content": "<div>\n<a href=\"https://www.linkedin.com/learning/certificates/88f9f69b2e936f5cdab5ebc7d584c64ad3fa5b8b423397386819e93f670cf7e5?trk=share_certificate\">Advanced Kubernetes: 1 Core Concepts</a><br>Start: 16-06-2025<br>End: 20-06-2025</div>"
+        },
+        {
+            "title": "[LinkedIn Learning]: Getting Started with Kubernetes Path",
+            "date": "June 9th, 2025",
+            "private": false,
+            "content": "<div>Learning Path: <a href=\"https://www.linkedin.com/learning/certificates/3755be4eedcac116522dcd12c3c0d1011f6ee6c43e5f234cb885f33452afd63e?trk=share_certificate\">Getting Started with Kubernete</a>s<br>Courses:<br>Course Name -&gt; End day</div>\n<pre><a href=\"https://www.linkedin.com/learning/learning-kubernetes-16086900?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c\">Learning Kubernetes</a>:                          26-01-2025\n<a href=\"https://www.linkedin.com/learning/kubernetes-your-first-project?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c\">Kubernetes: Your First Project</a>:               09-06-2025\n<a href=\"https://www.linkedin.com/learning/kubernetes-essential-tools?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c\">Kubernetes: Essential Tools:</a>                  09-06-2025\n<a href=\"https://www.linkedin.com/learning/kubernetes-microservices-23787657?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c\">Kubernetes: Microservices</a>:                    09-06-2025\n<a href=\"https://www.linkedin.com/learning/kubernetes-cloud-native-ecosystem-14444671?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c\">Kubernetes: Cloud Native Ecosystem</a>:           10-06-2025\n<a href=\"https://www.linkedin.com/learning/securing-containers-and-kubernetes-ecosystem?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48d3fc498e244c8376de8c\">Securing Containers and Kubernetes Ecosystem</a>: 13-06-2025</pre>\n<div><br></div>"
+        },
+        {
+            "title": "[kube.academy]: Interacting with Kubernetes + Introduction To Building Application Platforms with Kubernetes courses",
+            "date": "May 10th, 2025",
+            "private": false,
+            "content": "<ul>\n<li>Interacting with Kubernetes</li>\n<li>Introduction To Building Application Platforms with Kubernetes</li>\n</ul>\n<div>\n<br>Start &amp; End date: 10-05-2025</div>\n<div>\n<br><br>\n</div>"
+        },
+        {
+            "title": "[kube.academy]: Understanding Cloud Native - Learning Path",
+            "date": "May 9th, 2025",
+            "private": false,
+            "content": "<div>Start &amp; End date: 9-05-2025</div>"
+        },
+        {
+            "title": "[kube.academy]: Introduction to Building Cloud Native Applications - Learning Path",
+            "date": "May 9th, 2025",
+            "private": false,
+            "content": "<div>Start Day: 08-05-2025<br>End Day: 09-05-25</div>"
+        },
+        {
+            "title": "[Writing: kubernetes]: Writing k8s note to documented my learning journey.",
+            "date": "May 5th, 2025",
+            "private": false,
+            "content": "<div>- Documented my learning journey through writing.&nbsp; <br>- <a href=\"https://gist.github.com/zakaria-shahen/45169a32f62a86b26b0b5ea54312dfe8\">Gist: k8s_node.md</a>\n</div>"
+        },
+        {
+            "title": "[kube.academy]: Kubernetes Core Concepts - Learning Path",
+            "date": "May 5th, 2025",
+            "private": false,
+            "content": "<div>Start: 02-05-2025<br>End: 05-05-2025<br><br>\n</div>"
+        },
+        {
+            "title": "[PR: GSoC - OpenRewrite & Kotlin Foundation] created first pull request in Google Summer of Code",
+            "date": "March 20th, 2025",
+            "private": false,
+            "content": "<div>\n<a href=\"https://github.com/openrewrite/rewrite/pull/5204\">Pull Request</a>&nbsp;<br> I hope the PR will be great and marge it.&nbsp;<br>Why?&nbsp;<br>- Google summer of code is good start point in open source contribution<br>- It's help me to grow.&nbsp;<br><br><br>\n</div>"
+        },
+        {
+            "title": "[Book: Microservices in action] Ch1 ~ Ch12",
             "date": "December 24th, 2024",
-            "public": true,
-            "templateContent": "\n  <pre>Ch1: 24-12-2024\nCh2: 25-12-2024\nCh3: 26-12-2024\nCh4: 27-12-2024\nCh5: 28-12-2024\nCh6~: Work in progress</pre>\n",
-            "categories": ["Book", "Reading"]
+            "private": false,
+            "content": "<pre>Ch1: 24-12-2024\nCh2: 25-12-2024\nCh3: 26-12-2024\nCh4: 27-12-2024\nCh5: 28-12-2024\nCh6: 29-12-2024\nCh7: 30-12-2024\nCh8: 30-12-2024\nCh9: 01-01-2025\nch10~ch12: done</pre>"
         },
         {
             "name": "[Reading: microservices.io]: Microservices Patterns",
