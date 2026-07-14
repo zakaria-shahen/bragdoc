@@ -1,10 +1,22 @@
 module.exports = async function () {
     return [
         {
-            "name": "[Book:  Software Architecture: The Hard Parts] Ch1 ~ Ch4",
+            "name": "Joining UN WFP for 3 day, but I exit from it 🎉🙃 - Digital Solutions Volunteer position 3 months program",
+            "date": "June 24th, 2026",
+            "public": true,
+            "templateContent": "<div>Online on-boarding: 24 Jun 2026 to 4 July 2026&nbsp;<br>First day: 5 July 2026<br>Planned last working day: 7 July 2026<br><br>Looking back, I realize I made the wrong decision, I didn't fully understand that Power Platform would be the main responsibility, and I hadn't done enough research on power platform beforehand.<br>Additionally, the office is far from my home, which makes transportation to and from work quite difficult. Unfortunately, this all comes down to a lack of proper assessment of these factors on my part.<br><br>I really want to be part of helping people's lives across the word, but only through work that I'm actually capable of doing to help them<br><br>\n</div>"
+        },
+        {
+            "name": "[Book: Amazon Web Services in Action, Third Edition]",
+            "date": "June 7th, 2026",
+            "public": true,
+            "templateContent": "<div>Terraform GitHub Repo: <a href=\"https://github.com/zakaria-shahen/first_aws_in_action\">https://github.com/zakaria-shahen/first_aws_in_action</a><br> I'm challenging myself to learn AWS using Terraform instead of CloudFormation or the console. It has a high learning curve, but it'll pay off in the end, especially because I don't have much prior knowledge of Terraform and AWS&nbsp;</div>"
+        },
+        {
+            "name": "[Book:  Software Architecture: The Hard Parts]",
             "date": "September 25th, 2025",
             "public": true,
-            "templateContent": "<pre>- Ch1: 17-09-2025\n- Ch2: 25-09-2025\n- Ch3: 26-09-2025\n- Ch4: 29-09-2025</pre>"
+            "templateContent": "<pre>- Ch1: 17-09-2025\n- Ch2: 25-09-2025\n- Ch3: 26-09-2025\n- Ch4: 29-09-2025\n- Ch5: ?~06-10-2025\n- Ch6: 07-10-2025\n- Ch7: ?~10-10-2025\n- Ch8: 10-10-2025\n- ch9~ch11: 12-10-2025\n- ch12~ch15: 25~29-05-2026</pre>"
         },
         {
             "name": "[Book:  Modern Concurrency in Java] Ch1 ~ Ch5",
