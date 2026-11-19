@@ -1,6 +1,12 @@
 module.exports = async function () {
     return [
         {
+            "name": "Rebuilding myself and recovering from the period of my abduction",
+            "date": "November 19th, 2026",
+            "public": true,
+            "templateContent": "<div>From 01-01-2026 to 19-11-2026&nbsp;<br><br>I’m taking a break to rebuild myself and recover from the period of my abduction by:</div>\n<ul>\n<li>✅Finding a good place to live there.</li>\n<li>✅ Taking some time to think, relax, meet new people, and have fun.</li>\n<li>✅ Reading two books by Ezzedine C. Fishere: على فين يا مصر؟&nbsp; and the novel باب الخروج.</li>\n<li>✅ I’ve been trying Padel&nbsp; and found that I love it. In the meantime, I’m also running from time to time.</li>\n<li>✅ trying seeking accountability from the people who put me through the worst four months of my life. Those months changed me in ways that can’t be undone, including losing my trust in every member of my family, and unfortunately, my family failed the real-life test again.</li>\n<li>[ ] Getting back to work as a software developer at a good company, where I can <strong>sustain </strong>what I’ve achieved so far and build a successful career.</li>\n</ul>\n<div>\n<br>For context see:<br><a href=\"https://gist.github.com/zakaria-shahen/e738292e2b7e3ab1c0e21badaa61adda\">https://gist.github.com/zakaria-shahen/e738292e2b7e3ab1c0e21badaa61adda</a>\n</div>"
+        },
+        {
             "name": "Joining UN WFP for 3 day, but I exit from it 🎉🙃 - Digital Solutions Volunteer position 3 months program",
             "date": "June 24th, 2026",
             "public": true,
@@ -149,7 +155,7 @@ module.exports = async function () {
             "name": "[Book Paperback: Effective Java]: Ch1~Ch11",
             "date": "October 1st, 2024",
             "public": true,
-            "templateContent": "<div>offline.</div>"
+            "templateContent": "<div>offline.<br><br><strong>Background<br></strong>- I was humiliatingly fired and kidnapped for 4 months by their thugs who have criminal records, and they forged my resignation. They also used my family problems against me.<br>- Somehow, I was able to remember printrado.com, so I asked my family to buy this book from there and have it delivered to where I’m being detained in the countryside of Kerdasa. This book truly saved me from going completely crazy and helped me get through the last month in that awful place, along with <em>In Search of Identity</em> by Anwar Sadat&nbsp;</div>\n<div><br></div>\n<h1>F<strong>or more context see next&nbsp;</strong>\n</h1>\n<div><a href=\"https://gist.github.com/zakaria-shahen/e738292e2b7e3ab1c0e21badaa61adda\">https://gist.github.com/zakaria-shahen/e738292e2b7e3ab1c0e21badaa61adda&nbsp;</a></div>"
         },
         {
             "name": "[Course: AWS Skill Builder]: AWS Cloud Practitioner Essentials",
